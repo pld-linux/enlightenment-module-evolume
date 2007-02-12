@@ -2,7 +2,7 @@
 %define		_module_name	evolume
 %define		_snap	20060420
 Summary:	Enlightenment DR17 module: %{_module_name}
-Summary(pl.UTF-8):   Moduł Enlightenmenta DR17: %{_module_name}
+Summary(pl.UTF-8):	Moduł Enlightenmenta DR17: %{_module_name}
 Name:		enlightenment-module-%{_module_name}
 Version:	0.0.19
 Release:	1.%{_snap}.1
