@@ -16,10 +16,10 @@ BuildRequires:	alsa-lib-devel >= 1.0.8
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	edje
-BuildRequires:	enlightenmentDR17-devel
+BuildRequires:	enlightenment-devel
 BuildRequires:	libtool
 BuildRequires:	sed >= 4.0
-Requires:	enlightenmentDR17
+Requires:	enlightenment
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
